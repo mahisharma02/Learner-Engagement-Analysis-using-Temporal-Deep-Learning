@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+.DS_Store
+
+# Dataset files
+dataset/
+DAiSEE/
+*.csv
+
+# Temporary files
+*.log
