@@ -1,4 +1,4 @@
-# Learner Engagement Analysis Using Temporal Deep Learning 🎓
+# Learner Engagement Analysis Using Temporal Deep Learning 
 
 ## About the Project
 
